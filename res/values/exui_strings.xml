@@ -18,89 +18,89 @@
 <resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
 
     <!-- App Title -->
-    <string name="config_center_title">Configuration Center</string>
+    <string name="config_center_title">Центр настройки</string>
 
     <!-- Status bar tuner-->
-    <string name="statusbar_category">Status bar</string>
-    <string name="statusbar_title">Icons</string>
-    <string name="status_bar_items_summary">Add or remove status bar icons</string>
+    <string name="statusbar_category">Строка состояния</string>
+    <string name="statusbar_title">Иконки</string>
+    <string name="status_bar_items_summary">Добавить или убрать иконки в строке состояния</string>
 
     <!-- Nav bar tuner-->
-    <string name="navbar_category">Navigation Bar</string>
-    <string name="navigation_title">Navigation Bar</string>
-    <string name="navbar_invert_layout_title">Invert layout</string>
-    <string name="navbar_invert_layout_summary">Use inverted layout for navbar buttons</string>
-    <string name="nav_bar_layout">Navbar layout</string>
+    <string name="navbar_category">Панель Навигации</string>
+    <string name="navigation_title">Панель навигации</string>
+    <string name="navbar_invert_layout_title">Инвертированное отображение</string>
+    <string name="navbar_invert_layout_summary">Использовать инвертирование расположение кнопок</string>
+    <string name="nav_bar_layout">Отображение навигационной панель</string>
 
     <!-- Gestures -->
-    <string name="gestures_category">Gestures</string>
-    <string name="double_tap_sleep_lockscreen_title">Double tap to sleep</string>
-    <string name="double_tap_sleep_lockscreen_summary">Double tap anywhere on the lockscreen to put phone to sleep</string>
-    <string name="double_tap_sleep_gesture_title">Double tap to sleep</string>
-    <string name="double_tap_sleep_gesture_summary">Double tap on the status bar to put the device to sleep</string>
+    <string name="gestures_category">Жесты</string>
+    <string name="double_tap_sleep_lockscreen_title">Двойной тап для сна</string>
+    <string name="double_tap_sleep_lockscreen_summary">Двойной тап на экране блокировки для сна</string>
+    <string name="double_tap_sleep_gesture_title">Двойной тап для сна</string>
+    <string name="double_tap_sleep_gesture_summary">Двойной тап на строке состояния для сна</string>
 
     <!-- Lockscreen -->
-    <string name="lockscreen_category">Lockscreen</string>
-    <string name="lockscreen_tuner_title">Lockscreen bottom shortcuts</string>
-    <string name="lockscreen_tuner_summary">Customize bottom left and right shortcuts</string>
+    <string name="lockscreen_category">Экран блокировки</string>
+    <string name="lockscreen_tuner_title">Виджеты на экране блокировки</string>
+    <string name="lockscreen_tuner_summary">Изменить виджеты на экране блокировки</string>
 
     <!-- Heads up -->
-    <string name="notifications_category">Notifications</string>
-    <string name="heads_up_time_out_title">Time out</string>
-    <string name="heads_up_time_out_summary">Peeking notifications will show for <xliff:g id="number">%d</xliff:g> seconds</string>
-    <string name="heads_up_time_out_2sec">2 seconds</string>
-    <string name="heads_up_time_out_4sec">4 seconds</string>
-    <string name="heads_up_time_out_5sec">5 seconds</string>
-    <string name="heads_up_time_out_6sec">6 seconds</string>
-    <string name="heads_up_time_out_8sec">8 seconds</string>
-    <string name="heads_up_time_out_10sec">10 seconds</string>
+    <string name="notifications_category">Уведомления</string>
+    <string name="heads_up_time_out_title">Время истекло</string>
+    <string name="heads_up_time_out_summary">Уведомлене(ия) будет(ут) показаны <xliff:g id="number">%d</xliff:g> секунд(ы)</string>
+    <string name="heads_up_time_out_2sec">2 секунды</string>
+    <string name="heads_up_time_out_4sec">4 секунд</string>
+    <string name="heads_up_time_out_5sec">5 секунд</string>
+    <string name="heads_up_time_out_6sec">6 секунд</string>
+    <string name="heads_up_time_out_8sec">8 секунд</string>
+    <string name="heads_up_time_out_10sec">10 секунд</string>
 
     <!-- Heads up snooze -->
-    <string name="heads_up_snooze_title">Snooze timer</string>
-    <string name="heads_up_snooze_summary_one_minute">Swiping up on peeking notifications will snooze heads up from that application for 1 minute</string>
-    <string name="heads_up_snooze_summary">Swiping up on peeking notifications will snooze heads up from that application for <xliff:g id="number">%d</xliff:g> minutes</string>
-    <string name="heads_up_snooze_disabled_summary">Snooze timer is disabled</string>
-    <string name="heads_up_snooze_1min">1 minute</string>
-    <string name="heads_up_snooze_5min">5 minutes</string>
-    <string name="heads_up_snooze_10min">10 minutes</string>
-    <string name="heads_up_snooze_15min">15 minutes</string>
-    <string name="heads_up_snooze_20min">20 minutes</string>
+    <string name="heads_up_snooze_title">Уход в сон</string>
+    <string name="heads_up_snooze_summary_one_minute">Проведите пальцем вверх по уведомлению, чтобы заглянуть вверх из приложения на 1 минуту.</string>
+    <string name="heads_up_snooze_summary">Проведите пальцем вверх по уведомлениям, чтобы заглянуть вверх из этого приложения на <xliff:g id="number">%d</xliff:g> минут(у)</string>
+    <string name="heads_up_snooze_disabled_summary">Таймер сна отключен</string>
+    <string name="heads_up_snooze_1min">1 минута</string>
+    <string name="heads_up_snooze_5min">5 минут</string>
+    <string name="heads_up_snooze_10min">10 минут</string>
+    <string name="heads_up_snooze_15min">15 минут</string>
+    <string name="heads_up_snooze_20min">20 минут</string>
 
     <!-- Color Picker -->
-    <string name="dialog_color_picker">Color Picker</string>
-    <string name="press_color_to_apply">Press on color below to apply</string>
+    <string name="dialog_color_picker">Подбор цвета</string>
+    <string name="press_color_to_apply">Нажмите на цвет ниже для применения</string>
     <string name="arrow_right">→</string>
     <string name="arrow_down">↓</string>
     <string name="hex">Hex:</string>
     <string name="hex_hint">#ff000000</string>
-    <string name="set">Set</string>
-    <string name="color_default">Default</string>
+    <string name="set">Установить</string>
+    <string name="color_default">Стандарт</string>
 
     <!-- Ambient edge lighting -->
-    <string name="ambient_light_settings_title">Ambient light</string>
-    <string name="pulse_ambient_light_title">Edge lighting</string>
-    <string name="pulse_ambient_light_summary">Light up the side edges of the screen on notification pulse</string>
-    <string name="pulse_ambient_light_color_title">Edge light color</string>
+    <string name="ambient_light_settings_title">Подсветка AOD</string>
+    <string name="pulse_ambient_light_title">Боковая подсвета</string>
+    <string name="pulse_ambient_light_summary">Подсвечивает боковые грани, когда приходят уведомления</string>
+    <string name="pulse_ambient_light_color_title">Цвет боковой подсветки</string>
 
     <!-- Smart replies -->
-    <string name="hide_smart_replies_title">Hide smart replies</string>
-    <string name="hide_smart_replies_summary">Hide smart replies to save screen space with peeking notifications</string>
+    <string name="hide_smart_replies_title">Спрятать умные подсказки</string>
+    <string name="hide_smart_replies_summary">Спрятать умные подсказки для экономии места на экране</string>
 
     <!-- Battery light -->
-    <string name="light_settings_header">Notif. Led Settings</string>
-    <string name="battery_light_settings">Battery Charging Light</string>
-    <string name="battery_light_summary">Customization for Battery Light</string>
-    <string name="battery_light_enable">Enable</string>
-    <string name="battery_light_allow_on_dnd_title">Battery light in Do Not Disturb mode</string>
-    <string name="battery_light_low_blinking_title">Blinking light on low battery</string>
-    <string name="battery_light_cat">Battery light color when charging</string>
-    <string name="battery_light_low_color">Low battery</string>
-    <string name="battery_light_medium_color">Medium battery</string>
-    <string name="battery_light_full_color">Almost full battery</string>
-    <string name="battery_light_reallyfull_color">Full (100) battery</string>
+    <string name="light_settings_header">Настройки цвета уведомлений</string>
+    <string name="battery_light_settings">Индикатор зарядки аккумулятора</string>
+    <string name="battery_light_summary">Настройка индикатор зарядки аккумулятора</string>
+    <string name="battery_light_enable">Включен</string>
+    <string name="battery_light_allow_on_dnd_title">Индикатор заряда для режима "Не беспокоить"</string>
+    <string name="battery_light_low_blinking_title">Мигающий индикатор при низком заряде</string>
+    <string name="battery_light_cat">Цвет индикатора во время зарядки</string>
+    <string name="battery_light_low_color">Низкий заряд батареи</string>
+    <string name="battery_light_medium_color">Средний заряд батареи</string>
+    <string name="battery_light_full_color">Батарея почти заряжена</string>
+    <string name="battery_light_reallyfull_color">Батарея заряжена</string>
 
     <!-- FOD icon picker -->
-    <string name="fod_icon_picker_title">FOD icon picker</string>
-    <string name="fod_icon_picker_summary">Pick your favourite fingerprint icon</string>
+    <string name="fod_icon_picker_title">Выбор иконки отпечатка</string>
+    <string name="fod_icon_picker_summary">Выберите понравившуюся иконку</string>
 
 </resources>
